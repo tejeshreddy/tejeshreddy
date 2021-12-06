@@ -1,11 +1,11 @@
-## Hi there, I'm [Tejesh](https://tejeshreddy.github.io/) 👋
+### Hi there, I'm [Tejesh](https://tejeshreddy.github.io/) 👋
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 <p>
 A passionate programmer constantly learning to write simple, correct and optimal code to fight complexity.
 </p>
 
-## Tools I Use
+### Tools I Use
 <p>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40">
@@ -29,7 +29,7 @@ A passionate programmer constantly learning to write simple, correct and optimal
 </p>
 
 <details>
-<summary><h2>Git Stats</h2></summary>
+<summary><b>Git Stats</b></summary>
 <p align="left">
    <a href = "https://github.com/tejeshreddy">
    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=tejeshreddy&layout=compact&card_width=400">
