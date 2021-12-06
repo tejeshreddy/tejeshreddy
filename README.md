@@ -28,8 +28,8 @@ A passionate programmer constantly learning to write simple, correct and optimal
 <!-- <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> -->
 </p>
 
-## Git Stats
-
+<details>
+<summary><h2>Git Stats</h2></summary>
 <p align="left">
    <a href = "https://github.com/tejeshreddy">
    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=tejeshreddy&layout=compact&card_width=400">
@@ -39,3 +39,4 @@ A passionate programmer constantly learning to write simple, correct and optimal
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshreddy&" alt="tejeshreddy" /></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejeshreddy&style=flat-square)
+</details>
