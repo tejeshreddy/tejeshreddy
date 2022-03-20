@@ -29,7 +29,7 @@ A passionate programmer constantly learning to write simple, correct and optimal
 </p>
 
 <details>
-<summary><b>Github Stats</b></summary>
+<summary><b>Github & LeetCode Stats</b></summary>
 <p align="left">
    <a href = "https://github.com/tejeshreddy">
    <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=tejeshreddy&layout=compact&card_width=400">
@@ -39,14 +39,10 @@ A passionate programmer constantly learning to write simple, correct and optimal
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejeshreddy&" alt="tejeshreddy" /></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejeshreddy&style=flat-square)
-</details>
-
-<br>
-<summary><b>LeetCode Stats</b></summary>
-<br>
 
 <a href="https://leetcode.com/tejeshreddy111/">
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=tejeshreddy111)
 
 </a>
+</details>
