@@ -29,5 +29,5 @@ A passionate programmer constantly learning to write simple, correct and optimal
 
 ### Connect with me
 <a href="https://bit.ly/tejesh-linkedin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="tejesh-sigineni-linkedin" height="40" width="40" /></a>
-<a href="vsiginen@asu.edu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tejesh-sigineni-email" height="40" width="40" /></a>
+<a href="mailto:vsiginen@asu.edu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tejesh-sigineni-email" height="40" width="40" /></a>
 
