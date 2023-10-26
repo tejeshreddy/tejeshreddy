@@ -7,7 +7,7 @@
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
-## Tools I Use
+## 🔧 Tools I Use
 
 <p>
 <!-- Web Development -->
@@ -37,7 +37,7 @@
 
 </p>
 
-### Connect with me
+## 🔗 Connect with Me
 
 <a href="https://bit.ly/tejesh-linkedin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="tejesh-sigineni-linkedin" height="40" width="40" /></a>
 <a href="mailto:vsiginen@asu.edu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tejesh-sigineni-email" height="40" width="40" /></a>
