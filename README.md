@@ -1,7 +1,7 @@
 ## 💭 About
 
 - 👋 Hi there, I'm [Tejesh](https://bit.ly/tejesh-sigineni-portfolio) 
-- 💻 I’m interested in full-stack development, cloud engineering, and back-end web services
+- I’m interested in full-stack development, cloud engineering, and back-end web services
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 <p>
@@ -14,34 +14,23 @@ A passionate programmer constantly learning to write simple, correct and optimal
 ## Tools I Use
 
 <p>
-<!-- Python-related technologies -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40">
-
-<!-- Web development and JavaScript technologies -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
-
-<!-- Go (Golang) -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="40" height="40">
-
-<!-- The rest -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/spring/spring-original-wordmark.svg" alt="springio" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width "40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bash/bash-original.svg" alt="bash" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-
-
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springio" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="40" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
 ### Connect with me
