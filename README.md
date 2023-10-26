@@ -1,15 +1,11 @@
 ## 💭 About
 
-- 👋 Hi there, I'm [Tejesh](https://bit.ly/tejesh-sigineni-portfolio) 
-- I’m interested in full-stack development, cloud engineering, and back-end web services
+- 👋 Hi there, I'm [Tejesh](https://bit.ly/tejesh-sigineni-portfolio).
+- 🛠️ Currently working on React, Typescript and NextJS and GoLang.
+- 💻 I’m interested in full-stack development, cloud engineering, and back-end web services.
+- 🤝 I’m actively seeking job opportunities! Feel free to reach out if you have any job openings that match my skills and experience.
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-<p>
-A passionate programmer constantly learning to write simple, correct and optimal code to minimize complexity.
-</p>
-
-
-- 
 
 ## Tools I Use
 
@@ -42,6 +38,6 @@ A passionate programmer constantly learning to write simple, correct and optimal
 </p>
 
 ### Connect with me
+
 <a href="https://bit.ly/tejesh-linkedin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="tejesh-sigineni-linkedin" height="40" width="40" /></a>
 <a href="mailto:vsiginen@asu.edu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tejesh-sigineni-email" height="40" width="40" /></a>
-
