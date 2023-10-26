@@ -1,7 +1,7 @@
 ## 💭 About
 
 - 👋 Hi there, I'm [Tejesh](https://bit.ly/tejesh-sigineni-portfolio).
-- 🛠️ Currently working on React, Typescript and NextJS and GoLang.
+- 🛠️ Currently working on React, Node, Typescript, NextJS and GoLang.
 - 💻 I’m interested in full-stack development, cloud engineering, and back-end web services.
 - 🤝 I’m actively seeking job opportunities! Feel free to reach out if you have any job openings that match my skills and experience.
 
