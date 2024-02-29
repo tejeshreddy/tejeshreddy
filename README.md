@@ -2,7 +2,7 @@
 
 - 👋 Hi there, I'm [Tejesh](https://bit.ly/tejesh-sigineni-portfolio).
 - 🛠️ Currently working with HPE at the GreenLake Cloud Platform team.
-- 💻 I’m interested in cloud engineering, and back-end web services.
+- 💻 I’m interested in cloud engineering, infra engineering and back-end dev.
 
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
