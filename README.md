@@ -1,6 +1,7 @@
 ## 💭 About
 
 - 👋 Hi there, I'm [Tejesh](https://bit.ly/tejesh-sigineni-portfolio).
+- SWE @abnormal-security (Platform Security)
 - Connect with me on [Email](mailto:vsiginen@asu.edu) / [Linkedin](https://bit.ly/tejesh-linkedin)
 - [View my resume](https://tejeshreddy.github.io/resume/vsiginen/Tejesh_Reddy_Sigineni_Resume.pdf)
 
